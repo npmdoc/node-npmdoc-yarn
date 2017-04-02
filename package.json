@@ -1,17 +1,40 @@
 {
-    "buildNpmdoc":"yarn",
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "buildNpmdoc": "yarn",
+    "description": "api documentation for [yarn (v0.21.3)](https://github.com/yarnpkg/yarn#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-yarn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yarn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yarn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yarn)",
     "devDependencies": {
-        "yarn": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
-        "utility2": "kaizhu256/node-utility2#alpha"
+        "utility2": "kaizhu256/node-utility2#alpha",
+        "yarn": "*"
     },
-    "name":"npmdoc-yarn",
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-yarn",
+    "keywords": [
+        "documentation",
+        "yarn"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_yarn.js",
+    "name": "npmdoc-yarn",
+    "nameAlias": "npmdoc_yarn",
+    "nameOriginal": "npmdoc-yarn",
+    "os": [
+        "darwin",
+        "linux"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/npmdoc/node-npmdoc-yarn.git"
     },
     "scripts": {
-        "build-ci": "utility2 shReadmeTest build_ci.sh"
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "(set -e; npm install \"kaizhu256/node-utility2#alpha\"; utility2 shDeployHeroku)",
+        "postinstall": "if [ -f npm_scripts.sh ]; then ./npm_scripts.sh postinstall; fi",
+        "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
     "version": "0.0.1"
 }
