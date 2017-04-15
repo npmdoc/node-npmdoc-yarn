@@ -1,0 +1,275 @@
+<svg height="4350" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="4350" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-15 22:01:40 +0000  1367583 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-15 22:01:40 +0000      657 bytes  Dockerfile.dev</tspan>
+<tspan x="10" y="58">  2.  2017-04-15 22:01:40 +0000      528 bytes  Dockerfile.node7</tspan>
+<tspan x="10" y="74">  3.  2017-04-15 22:01:40 +0000     1346 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-15 22:01:40 +0000     3057 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-15 22:01:40 +0000      172 bytes  bin/node-gyp-bin/node-gyp</tspan>
+<tspan x="10" y="122">  6.  2017-04-15 22:01:40 +0000      142 bytes  bin/node-gyp-bin/node-gyp.cmd</tspan>
+<tspan x="10" y="138">  7.  2017-04-15 22:01:40 +0000      906 bytes  bin/yarn</tspan>
+<tspan x="10" y="154">  8.  2017-04-15 22:01:40 +0000       34 bytes  bin/yarn.cmd</tspan>
+<tspan x="10" y="170">  9.  2017-04-15 22:01:40 +0000     1480 bytes  bin/yarn.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-15 22:01:40 +0000       42 bytes  bin/yarnpkg</tspan>
+<tspan x="10" y="202"> 11.  2017-04-15 22:01:40 +0000       30 bytes  bin/yarnpkg.cmd</tspan>
+<tspan x="10" y="218"> 12.  2017-04-15 22:01:40 +0000      218 bytes  end_to_end_tests/README.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-15 22:01:40 +0000     1224 bytes  end_to_end_tests/data/run-ubuntu.sh</tspan>
+<tspan x="10" y="250"> 14.  2017-04-15 22:01:40 +0000      591 bytes  end_to_end_tests/data/run-yarn-test.sh</tspan>
+<tspan x="10" y="266"> 15.  2017-04-15 22:01:40 +0000      346 bytes  end_to_end_tests/data/start-ubuntu.sh</tspan>
+<tspan x="10" y="282"> 16.  2017-04-15 22:01:40 +0000      138 bytes  end_to_end_tests/test-ubuntu-12.04.sh</tspan>
+<tspan x="10" y="298"> 17.  2017-04-15 22:01:40 +0000      138 bytes  end_to_end_tests/test-ubuntu-14.04.sh</tspan>
+<tspan x="10" y="314"> 18.  2017-04-15 22:01:40 +0000      138 bytes  end_to_end_tests/test-ubuntu-16.04.sh</tspan>
+<tspan x="10" y="330"> 19.  2017-04-15 22:01:40 +0000     1442 bytes  jenkins_jobs.groovy</tspan>
+<tspan x="10" y="346"> 20.  2017-04-15 22:01:40 +0000       13 bytes  lib-legacy/api.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-15 22:01:40 +0000      931 bytes  lib-legacy/cli/aliases.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-15 22:01:40 +0000     2291 bytes  lib-legacy/cli/commands/_build-sub-commands.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-15 22:01:40 +0000      346 bytes  lib-legacy/cli/commands/_useless.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-15 22:01:40 +0000     1840 bytes  lib-legacy/cli/commands/access.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-15 22:01:40 +0000     7899 bytes  lib-legacy/cli/commands/add.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-15 22:01:40 +0000      845 bytes  lib-legacy/cli/commands/bin.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-15 22:01:40 +0000     4128 bytes  lib-legacy/cli/commands/cache.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-15 22:01:40 +0000    14016 bytes  lib-legacy/cli/commands/check.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-15 22:01:40 +0000     4618 bytes  lib-legacy/cli/commands/clean.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-15 22:01:40 +0000     2557 bytes  lib-legacy/cli/commands/config.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-15 22:01:40 +0000     2376 bytes  lib-legacy/cli/commands/generate-lock-entry.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-15 22:01:40 +0000    10908 bytes  lib-legacy/cli/commands/global.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-15 22:01:40 +0000     2260 bytes  lib-legacy/cli/commands/help.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-15 22:01:40 +0000    13785 bytes  lib-legacy/cli/commands/import.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-15 22:01:40 +0000     6770 bytes  lib-legacy/cli/commands/index.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-15 22:01:40 +0000     3263 bytes  lib-legacy/cli/commands/info.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-15 22:01:40 +0000     6287 bytes  lib-legacy/cli/commands/init.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-15 22:01:40 +0000    31064 bytes  lib-legacy/cli/commands/install.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-15 22:01:40 +0000     7065 bytes  lib-legacy/cli/commands/licenses.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-15 22:01:40 +0000     4028 bytes  lib-legacy/cli/commands/link.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-15 22:01:40 +0000     6271 bytes  lib-legacy/cli/commands/list.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-15 22:01:40 +0000     4506 bytes  lib-legacy/cli/commands/login.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-15 22:01:40 +0000      792 bytes  lib-legacy/cli/commands/logout.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-15 22:01:40 +0000     2795 bytes  lib-legacy/cli/commands/outdated.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-15 22:01:40 +0000     5951 bytes  lib-legacy/cli/commands/owner.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-15 22:01:40 +0000     6849 bytes  lib-legacy/cli/commands/pack.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-15 22:01:40 +0000     6427 bytes  lib-legacy/cli/commands/publish.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-15 22:01:40 +0000     4404 bytes  lib-legacy/cli/commands/remove.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-15 22:01:40 +0000     6239 bytes  lib-legacy/cli/commands/run.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-15 22:01:40 +0000     6151 bytes  lib-legacy/cli/commands/tag.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-15 22:01:40 +0000     6043 bytes  lib-legacy/cli/commands/team.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-15 22:01:40 +0000     2906 bytes  lib-legacy/cli/commands/unlink.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-15 22:01:40 +0000     6709 bytes  lib-legacy/cli/commands/upgrade-interactive.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-15 22:01:40 +0000     2133 bytes  lib-legacy/cli/commands/upgrade.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-15 22:01:40 +0000     7077 bytes  lib-legacy/cli/commands/version.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-15 22:01:40 +0000     1124 bytes  lib-legacy/cli/commands/versions.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-15 22:01:40 +0000    11356 bytes  lib-legacy/cli/commands/why.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-15 22:01:40 +0000    14538 bytes  lib-legacy/cli/index.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-15 22:01:40 +0000    18125 bytes  lib-legacy/config.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-15 22:01:40 +0000     3737 bytes  lib-legacy/constants.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-15 22:01:40 +0000      382 bytes  lib-legacy/errors.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-15 22:01:40 +0000     2774 bytes  lib-legacy/fetchers/base-fetcher.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-15 22:01:40 +0000     1256 bytes  lib-legacy/fetchers/copy-fetcher.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-15 22:01:40 +0000     4796 bytes  lib-legacy/fetchers/git-fetcher.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-15 22:01:40 +0000     1036 bytes  lib-legacy/fetchers/index.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-15 22:01:40 +0000     8397 bytes  lib-legacy/fetchers/tarball-fetcher.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-15 22:01:40 +0000     8539 bytes  lib-legacy/lockfile/parse.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-15 22:01:40 +0000     3277 bytes  lib-legacy/lockfile/stringify.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-15 22:01:40 +0000     6200 bytes  lib-legacy/lockfile/wrapper.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-15 22:01:40 +0000     5274 bytes  lib-legacy/package-compatibility.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-15 22:01:40 +0000     1130 bytes  lib-legacy/package-constraint-resolver.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-15 22:01:40 +0000     4238 bytes  lib-legacy/package-fetcher.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-15 22:01:40 +0000    15846 bytes  lib-legacy/package-hoister.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-15 22:01:40 +0000    11194 bytes  lib-legacy/package-install-scripts.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-15 22:01:40 +0000    14303 bytes  lib-legacy/package-linker.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-15 22:01:40 +0000     2545 bytes  lib-legacy/package-reference.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-15 22:01:40 +0000    14415 bytes  lib-legacy/package-request.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-15 22:01:40 +0000    11517 bytes  lib-legacy/package-resolver.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-15 22:01:40 +0000     3581 bytes  lib-legacy/registries/base-registry.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-15 22:01:40 +0000      877 bytes  lib-legacy/registries/index.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-15 22:01:40 +0000     1203 bytes  lib-legacy/registries/is-request-to-registry.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-15 22:01:40 +0000     8591 bytes  lib-legacy/registries/npm-registry.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-15 22:01:40 +0000     5059 bytes  lib-legacy/registries/yarn-registry.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-15 22:01:40 +0000     6909 bytes  lib-legacy/reporters/base-reporter.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-15 22:01:40 +0000      662 bytes  lib-legacy/reporters/buffer-reporter.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-15 22:01:40 +0000    10151 bytes  lib-legacy/reporters/console/console-reporter.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-15 22:01:40 +0000     1270 bytes  lib-legacy/reporters/console/helpers/tree-helper\</tspan>
+<tspan x="10" y="1434">.js</tspan>
+<tspan x="10" y="1450"> 88.  2017-04-15 22:01:40 +0000     1655 bytes  lib-legacy/reporters/console/progress-bar.js</tspan>
+<tspan x="10" y="1466"> 89.  2017-04-15 22:01:40 +0000     2378 bytes  lib-legacy/reporters/console/spinner-progress.js</tspan>
+<tspan x="10" y="1482"> 90.  2017-04-15 22:01:40 +0000     1405 bytes  lib-legacy/reporters/console/util.js</tspan>
+<tspan x="10" y="1498"> 91.  2017-04-15 22:01:40 +0000      941 bytes  lib-legacy/reporters/event-reporter.js</tspan>
+<tspan x="10" y="1514"> 92.  2017-04-15 22:01:40 +0000      758 bytes  lib-legacy/reporters/format.js</tspan>
+<tspan x="10" y="1530"> 93.  2017-04-15 22:01:40 +0000     1992 bytes  lib-legacy/reporters/index.js</tspan>
+<tspan x="10" y="1546"> 94.  2017-04-15 22:01:40 +0000     3388 bytes  lib-legacy/reporters/json-reporter.js</tspan>
+<tspan x="10" y="1562"> 95.  2017-04-15 22:01:40 +0000    13773 bytes  lib-legacy/reporters/lang/en.js</tspan>
+<tspan x="10" y="1578"> 96.  2017-04-15 22:01:40 +0000      337 bytes  lib-legacy/reporters/lang/index.js</tspan>
+<tspan x="10" y="1594"> 97.  2017-04-15 22:01:40 +0000     2857 bytes  lib-legacy/reporters/noop-reporter.js</tspan>
+<tspan x="10" y="1610"> 98.  2017-04-15 22:01:40 +0000       13 bytes  lib-legacy/reporters/types.js</tspan>
+<tspan x="10" y="1626"> 99.  2017-04-15 22:01:40 +0000      854 bytes  lib-legacy/resolvers/base-resolver.js</tspan>
+<tspan x="10" y="1642">100.  2017-04-15 22:01:40 +0000     1113 bytes  lib-legacy/resolvers/exotics/bitbucket-resolver.\</tspan>
+<tspan x="10" y="1658">js</tspan>
+<tspan x="10" y="1674">101.  2017-04-15 22:01:40 +0000      626 bytes  lib-legacy/resolvers/exotics/exotic-resolver.js</tspan>
+<tspan x="10" y="1690">102.  2017-04-15 22:01:40 +0000     3922 bytes  lib-legacy/resolvers/exotics/file-resolver.js</tspan>
+<tspan x="10" y="1706">103.  2017-04-15 22:01:40 +0000     1922 bytes  lib-legacy/resolvers/exotics/gist-resolver.js</tspan>
+<tspan x="10" y="1722">104.  2017-04-15 22:01:40 +0000     6514 bytes  lib-legacy/resolvers/exotics/git-resolver.js</tspan>
+<tspan x="10" y="1738">105.  2017-04-15 22:01:40 +0000     1367 bytes  lib-legacy/resolvers/exotics/github-resolver.js</tspan>
+<tspan x="10" y="1754">106.  2017-04-15 22:01:40 +0000     1114 bytes  lib-legacy/resolvers/exotics/gitlab-resolver.js</tspan>
+<tspan x="10" y="1770">107.  2017-04-15 22:01:40 +0000     7940 bytes  lib-legacy/resolvers/exotics/hosted-git-resolver\</tspan>
+<tspan x="10" y="1786">.js</tspan>
+<tspan x="10" y="1802">108.  2017-04-15 22:01:40 +0000     1038 bytes  lib-legacy/resolvers/exotics/registry-resolver.j\</tspan>
+<tspan x="10" y="1818">s</tspan>
+<tspan x="10" y="1834">109.  2017-04-15 22:01:40 +0000     4194 bytes  lib-legacy/resolvers/exotics/tarball-resolver.js</tspan>
+<tspan x="10" y="1850">110.  2017-04-15 22:01:40 +0000     3436 bytes  lib-legacy/resolvers/index.js</tspan>
+<tspan x="10" y="1866">111.  2017-04-15 22:01:40 +0000     7952 bytes  lib-legacy/resolvers/registries/npm-resolver.js</tspan>
+<tspan x="10" y="1882">112.  2017-04-15 22:01:40 +0000      649 bytes  lib-legacy/resolvers/registries/registry-resolve\</tspan>
+<tspan x="10" y="1898">r.js</tspan>
+<tspan x="10" y="1914">113.  2017-04-15 22:01:40 +0000      416 bytes  lib-legacy/resolvers/registries/yarn-resolver.js</tspan>
+<tspan x="10" y="1930">114.  2017-04-15 22:01:40 +0000       13 bytes  lib-legacy/types.js</tspan>
+<tspan x="10" y="1946">115.  2017-04-15 22:01:40 +0000     3540 bytes  lib-legacy/util/blocking-queue.js</tspan>
+<tspan x="10" y="1962">116.  2017-04-15 22:01:40 +0000     3268 bytes  lib-legacy/util/child.js</tspan>
+<tspan x="10" y="1978">117.  2017-04-15 22:01:40 +0000      806 bytes  lib-legacy/util/crypto.js</tspan>
+<tspan x="10" y="1994">118.  2017-04-15 22:01:40 +0000      627 bytes  lib-legacy/util/env-replace.js</tspan>
+<tspan x="10" y="2010">119.  2017-04-15 22:01:40 +0000     9580 bytes  lib-legacy/util/execute-lifecycle-script.js</tspan>
+<tspan x="10" y="2026">120.  2017-04-15 22:01:40 +0000     3704 bytes  lib-legacy/util/filter.js</tspan>
+<tspan x="10" y="2042">121.  2017-04-15 22:01:40 +0000     1056 bytes  lib-legacy/util/fix-cmd-win-slashes.js</tspan>
+<tspan x="10" y="2058">122.  2017-04-15 22:01:40 +0000    27866 bytes  lib-legacy/util/fs.js</tspan>
+<tspan x="10" y="2074">123.  2017-04-15 22:01:40 +0000    13678 bytes  lib-legacy/util/git.js</tspan>
+<tspan x="10" y="2090">124.  2017-04-15 22:01:40 +0000      914 bytes  lib-legacy/util/map.js</tspan>
+<tspan x="10" y="2106">125.  2017-04-15 22:01:40 +0000     1494 bytes  lib-legacy/util/misc.js</tspan>
+<tspan x="10" y="2122">126.  2017-04-15 22:01:40 +0000     1158 bytes  lib-legacy/util/mutex.js</tspan>
+<tspan x="10" y="2138">127.  2017-04-15 22:01:40 +0000      953 bytes  lib-legacy/util/network.js</tspan>
+<tspan x="10" y="2154">128.  2017-04-15 22:01:40 +0000    12047 bytes  lib-legacy/util/normalize-manifest/fix.js</tspan>
+<tspan x="10" y="2170">129.  2017-04-15 22:01:40 +0000     1667 bytes  lib-legacy/util/normalize-manifest/index.js</tspan>
+<tspan x="10" y="2186">130.  2017-04-15 22:01:40 +0000     1259 bytes  lib-legacy/util/normalize-manifest/infer-license\</tspan>
+<tspan x="10" y="2202">.js</tspan>
+<tspan x="10" y="2218">131.  2017-04-15 22:01:40 +0000    18203 bytes  lib-legacy/util/normalize-manifest/licenses.js</tspan>
+<tspan x="10" y="2234">132.  2017-04-15 22:01:40 +0000      674 bytes  lib-legacy/util/normalize-manifest/typos.js</tspan>
+<tspan x="10" y="2250">133.  2017-04-15 22:01:40 +0000     2460 bytes  lib-legacy/util/normalize-manifest/util.js</tspan>
+<tspan x="10" y="2266">134.  2017-04-15 22:01:40 +0000     4567 bytes  lib-legacy/util/normalize-manifest/validate.js</tspan>
+<tspan x="10" y="2282">135.  2017-04-15 22:01:40 +0000      725 bytes  lib-legacy/util/parse-package-name.js</tspan>
+<tspan x="10" y="2298">136.  2017-04-15 22:01:40 +0000     2388 bytes  lib-legacy/util/promise.js</tspan>
+<tspan x="10" y="2314">137.  2017-04-15 22:01:40 +0000    10307 bytes  lib-legacy/util/request-manager.js</tspan>
+<tspan x="10" y="2330">138.  2017-04-15 22:01:40 +0000     2043 bytes  lib-legacy/util/stream.js</tspan>
+<tspan x="10" y="2346">139.  2017-04-15 22:01:40 +0000      347 bytes  lib-legacy/util/user-home-dir.js</tspan>
+<tspan x="10" y="2362">140.  2017-04-15 22:01:40 +0000      252 bytes  lib-legacy/util/version.js</tspan>
+<tspan x="10" y="2378">141.  2017-04-15 22:01:40 +0000       13 bytes  lib/api.js</tspan>
+<tspan x="10" y="2394">142.  2017-04-15 22:01:40 +0000      931 bytes  lib/cli/aliases.js</tspan>
+<tspan x="10" y="2410">143.  2017-04-15 22:01:40 +0000     1924 bytes  lib/cli/commands/_build-sub-commands.js</tspan>
+<tspan x="10" y="2426">144.  2017-04-15 22:01:40 +0000      332 bytes  lib/cli/commands/_useless.js</tspan>
+<tspan x="10" y="2442">145.  2017-04-15 22:01:40 +0000     1371 bytes  lib/cli/commands/access.js</tspan>
+<tspan x="10" y="2458">146.  2017-04-15 22:01:40 +0000     7578 bytes  lib/cli/commands/add.js</tspan>
+<tspan x="10" y="2474">147.  2017-04-15 22:01:40 +0000      683 bytes  lib/cli/commands/bin.js</tspan>
+<tspan x="10" y="2490">148.  2017-04-15 22:01:40 +0000     3619 bytes  lib/cli/commands/cache.js</tspan>
+<tspan x="10" y="2506">149.  2017-04-15 22:01:40 +0000    13636 bytes  lib/cli/commands/check.js</tspan>
+<tspan x="10" y="2522">150.  2017-04-15 22:01:40 +0000     4450 bytes  lib/cli/commands/clean.js</tspan>
+<tspan x="10" y="2538">151.  2017-04-15 22:01:40 +0000     2397 bytes  lib/cli/commands/config.js</tspan>
+<tspan x="10" y="2554">152.  2017-04-15 22:01:40 +0000     2376 bytes  lib/cli/commands/generate-lock-entry.js</tspan>
+<tspan x="10" y="2570">153.  2017-04-15 22:01:40 +0000     9770 bytes  lib/cli/commands/global.js</tspan>
+<tspan x="10" y="2586">154.  2017-04-15 22:01:40 +0000     1850 bytes  lib/cli/commands/help.js</tspan>
+<tspan x="10" y="2602">155.  2017-04-15 22:01:40 +0000    13576 bytes  lib/cli/commands/import.js</tspan>
+<tspan x="10" y="2618">156.  2017-04-15 22:01:40 +0000     6770 bytes  lib/cli/commands/index.js</tspan>
+<tspan x="10" y="2634">157.  2017-04-15 22:01:40 +0000     2951 bytes  lib/cli/commands/info.js</tspan>
+<tspan x="10" y="2650">158.  2017-04-15 22:01:40 +0000     6126 bytes  lib/cli/commands/init.js</tspan>
+<tspan x="10" y="2666">159.  2017-04-15 22:01:40 +0000    30541 bytes  lib/cli/commands/install.js</tspan>
+<tspan x="10" y="2682">160.  2017-04-15 22:01:40 +0000     6624 bytes  lib/cli/commands/licenses.js</tspan>
+<tspan x="10" y="2698">161.  2017-04-15 22:01:40 +0000     4028 bytes  lib/cli/commands/link.js</tspan>
+<tspan x="10" y="2714">162.  2017-04-15 22:01:40 +0000     6234 bytes  lib/cli/commands/list.js</tspan>
+<tspan x="10" y="2730">163.  2017-04-15 22:01:40 +0000     4207 bytes  lib/cli/commands/login.js</tspan>
+<tspan x="10" y="2746">164.  2017-04-15 22:01:40 +0000      792 bytes  lib/cli/commands/logout.js</tspan>
+<tspan x="10" y="2762">165.  2017-04-15 22:01:40 +0000     2459 bytes  lib/cli/commands/outdated.js</tspan>
+<tspan x="10" y="2778">166.  2017-04-15 22:01:40 +0000     5810 bytes  lib/cli/commands/owner.js</tspan>
+<tspan x="10" y="2794">167.  2017-04-15 22:01:40 +0000     6400 bytes  lib/cli/commands/pack.js</tspan>
+<tspan x="10" y="2810">168.  2017-04-15 22:01:40 +0000     6105 bytes  lib/cli/commands/publish.js</tspan>
+<tspan x="10" y="2826">169.  2017-04-15 22:01:40 +0000     4253 bytes  lib/cli/commands/remove.js</tspan>
+<tspan x="10" y="2842">170.  2017-04-15 22:01:40 +0000     5392 bytes  lib/cli/commands/run.js</tspan>
+<tspan x="10" y="2858">171.  2017-04-15 22:01:40 +0000     5798 bytes  lib/cli/commands/tag.js</tspan>
+<tspan x="10" y="2874">172.  2017-04-15 22:01:40 +0000     6043 bytes  lib/cli/commands/team.js</tspan>
+<tspan x="10" y="2890">173.  2017-04-15 22:01:40 +0000     2906 bytes  lib/cli/commands/unlink.js</tspan>
+<tspan x="10" y="2906">174.  2017-04-15 22:01:40 +0000     6264 bytes  lib/cli/commands/upgrade-interactive.js</tspan>
+<tspan x="10" y="2922">175.  2017-04-15 22:01:40 +0000     1972 bytes  lib/cli/commands/upgrade.js</tspan>
+<tspan x="10" y="2938">176.  2017-04-15 22:01:40 +0000     6695 bytes  lib/cli/commands/version.js</tspan>
+<tspan x="10" y="2954">177.  2017-04-15 22:01:40 +0000      963 bytes  lib/cli/commands/versions.js</tspan>
+<tspan x="10" y="2970">178.  2017-04-15 22:01:40 +0000    10511 bytes  lib/cli/commands/why.js</tspan>
+<tspan x="10" y="2986">179.  2017-04-15 22:01:40 +0000    14290 bytes  lib/cli/index.js</tspan>
+<tspan x="10" y="3002">180.  2017-04-15 22:01:40 +0000    17059 bytes  lib/config.js</tspan>
+<tspan x="10" y="3018">181.  2017-04-15 22:01:40 +0000     3737 bytes  lib/constants.js</tspan>
+<tspan x="10" y="3034">182.  2017-04-15 22:01:40 +0000      382 bytes  lib/errors.js</tspan>
+<tspan x="10" y="3050">183.  2017-04-15 22:01:40 +0000     2379 bytes  lib/fetchers/base-fetcher.js</tspan>
+<tspan x="10" y="3066">184.  2017-04-15 22:01:40 +0000     1256 bytes  lib/fetchers/copy-fetcher.js</tspan>
+<tspan x="10" y="3082">185.  2017-04-15 22:01:40 +0000     4635 bytes  lib/fetchers/git-fetcher.js</tspan>
+<tspan x="10" y="3098">186.  2017-04-15 22:01:40 +0000     1036 bytes  lib/fetchers/index.js</tspan>
+<tspan x="10" y="3114">187.  2017-04-15 22:01:40 +0000     8203 bytes  lib/fetchers/tarball-fetcher.js</tspan>
+<tspan x="10" y="3130">188.  2017-04-15 22:01:40 +0000     8515 bytes  lib/lockfile/parse.js</tspan>
+<tspan x="10" y="3146">189.  2017-04-15 22:01:40 +0000     2849 bytes  lib/lockfile/stringify.js</tspan>
+<tspan x="10" y="3162">190.  2017-04-15 22:01:40 +0000     5877 bytes  lib/lockfile/wrapper.js</tspan>
+<tspan x="10" y="3178">191.  2017-04-15 22:01:40 +0000     4951 bytes  lib/package-compatibility.js</tspan>
+<tspan x="10" y="3194">192.  2017-04-15 22:01:40 +0000      841 bytes  lib/package-constraint-resolver.js</tspan>
+<tspan x="10" y="3210">193.  2017-04-15 22:01:40 +0000     4226 bytes  lib/package-fetcher.js</tspan>
+<tspan x="10" y="3226">194.  2017-04-15 22:01:40 +0000    15286 bytes  lib/package-hoister.js</tspan>
+<tspan x="10" y="3242">195.  2017-04-15 22:01:40 +0000    10415 bytes  lib/package-install-scripts.js</tspan>
+<tspan x="10" y="3258">196.  2017-04-15 22:01:40 +0000    13201 bytes  lib/package-linker.js</tspan>
+<tspan x="10" y="3274">197.  2017-04-15 22:01:40 +0000     2545 bytes  lib/package-reference.js</tspan>
+<tspan x="10" y="3290">198.  2017-04-15 22:01:40 +0000    13869 bytes  lib/package-request.js</tspan>
+<tspan x="10" y="3306">199.  2017-04-15 22:01:40 +0000    10977 bytes  lib/package-resolver.js</tspan>
+<tspan x="10" y="3322">200.  2017-04-15 22:01:40 +0000     3209 bytes  lib/registries/base-registry.js</tspan>
+<tspan x="10" y="3338">201.  2017-04-15 22:01:40 +0000      726 bytes  lib/registries/index.js</tspan>
+<tspan x="10" y="3354">202.  2017-04-15 22:01:40 +0000     1203 bytes  lib/registries/is-request-to-registry.js</tspan>
+<tspan x="10" y="3370">203.  2017-04-15 22:01:40 +0000     8416 bytes  lib/registries/npm-registry.js</tspan>
+<tspan x="10" y="3386">204.  2017-04-15 22:01:40 +0000     4871 bytes  lib/registries/yarn-registry.js</tspan>
+<tspan x="10" y="3402">205.  2017-04-15 22:01:40 +0000     6434 bytes  lib/reporters/base-reporter.js</tspan>
+<tspan x="10" y="3418">206.  2017-04-15 22:01:40 +0000      650 bytes  lib/reporters/buffer-reporter.js</tspan>
+<tspan x="10" y="3434">207.  2017-04-15 22:01:40 +0000     9490 bytes  lib/reporters/console/console-reporter.js</tspan>
+<tspan x="10" y="3450">208.  2017-04-15 22:01:40 +0000     1270 bytes  lib/reporters/console/helpers/tree-helper.js</tspan>
+<tspan x="10" y="3466">209.  2017-04-15 22:01:40 +0000     1655 bytes  lib/reporters/console/progress-bar.js</tspan>
+<tspan x="10" y="3482">210.  2017-04-15 22:01:40 +0000     2378 bytes  lib/reporters/console/spinner-progress.js</tspan>
+<tspan x="10" y="3498">211.  2017-04-15 22:01:40 +0000     1405 bytes  lib/reporters/console/util.js</tspan>
+<tspan x="10" y="3514">212.  2017-04-15 22:01:40 +0000      780 bytes  lib/reporters/event-reporter.js</tspan>
+<tspan x="10" y="3530">213.  2017-04-15 22:01:40 +0000      758 bytes  lib/reporters/format.js</tspan>
+<tspan x="10" y="3546">214.  2017-04-15 22:01:40 +0000     1974 bytes  lib/reporters/index.js</tspan>
+<tspan x="10" y="3562">215.  2017-04-15 22:01:40 +0000     2978 bytes  lib/reporters/json-reporter.js</tspan>
+<tspan x="10" y="3578">216.  2017-04-15 22:01:40 +0000    13773 bytes  lib/reporters/lang/en.js</tspan>
+<tspan x="10" y="3594">217.  2017-04-15 22:01:40 +0000      337 bytes  lib/reporters/lang/index.js</tspan>
+<tspan x="10" y="3610">218.  2017-04-15 22:01:40 +0000     2558 bytes  lib/reporters/noop-reporter.js</tspan>
+<tspan x="10" y="3626">219.  2017-04-15 22:01:40 +0000       13 bytes  lib/reporters/types.js</tspan>
+<tspan x="10" y="3642">220.  2017-04-15 22:01:40 +0000      805 bytes  lib/resolvers/base-resolver.js</tspan>
+<tspan x="10" y="3658">221.  2017-04-15 22:01:40 +0000     1113 bytes  lib/resolvers/exotics/bitbucket-resolver.js</tspan>
+<tspan x="10" y="3674">222.  2017-04-15 22:01:40 +0000      626 bytes  lib/resolvers/exotics/exotic-resolver.js</tspan>
+<tspan x="10" y="3690">223.  2017-04-15 22:01:40 +0000     3724 bytes  lib/resolvers/exotics/file-resolver.js</tspan>
+<tspan x="10" y="3706">224.  2017-04-15 22:01:40 +0000     1922 bytes  lib/resolvers/exotics/gist-resolver.js</tspan>
+<tspan x="10" y="3722">225.  2017-04-15 22:01:40 +0000     6494 bytes  lib/resolvers/exotics/git-resolver.js</tspan>
+<tspan x="10" y="3738">226.  2017-04-15 22:01:40 +0000     1367 bytes  lib/resolvers/exotics/github-resolver.js</tspan>
+<tspan x="10" y="3754">227.  2017-04-15 22:01:40 +0000     1114 bytes  lib/resolvers/exotics/gitlab-resolver.js</tspan>
+<tspan x="10" y="3770">228.  2017-04-15 22:01:40 +0000     7919 bytes  lib/resolvers/exotics/hosted-git-resolver.js</tspan>
+<tspan x="10" y="3786">229.  2017-04-15 22:01:40 +0000     1038 bytes  lib/resolvers/exotics/registry-resolver.js</tspan>
+<tspan x="10" y="3802">230.  2017-04-15 22:01:40 +0000     4162 bytes  lib/resolvers/exotics/tarball-resolver.js</tspan>
+<tspan x="10" y="3818">231.  2017-04-15 22:01:40 +0000     3436 bytes  lib/resolvers/index.js</tspan>
+<tspan x="10" y="3834">232.  2017-04-15 22:01:40 +0000     7555 bytes  lib/resolvers/registries/npm-resolver.js</tspan>
+<tspan x="10" y="3850">233.  2017-04-15 22:01:40 +0000      649 bytes  lib/resolvers/registries/registry-resolver.js</tspan>
+<tspan x="10" y="3866">234.  2017-04-15 22:01:40 +0000      416 bytes  lib/resolvers/registries/yarn-resolver.js</tspan>
+<tspan x="10" y="3882">235.  2017-04-15 22:01:40 +0000       13 bytes  lib/types.js</tspan>
+<tspan x="10" y="3898">236.  2017-04-15 22:01:40 +0000     2994 bytes  lib/util/blocking-queue.js</tspan>
+<tspan x="10" y="3914">237.  2017-04-15 22:01:40 +0000     3101 bytes  lib/util/child.js</tspan>
+<tspan x="10" y="3930">238.  2017-04-15 22:01:40 +0000      806 bytes  lib/util/crypto.js</tspan>
+<tspan x="10" y="3946">239.  2017-04-15 22:01:40 +0000      627 bytes  lib/util/env-replace.js</tspan>
+<tspan x="10" y="3962">240.  2017-04-15 22:01:40 +0000     8308 bytes  lib/util/execute-lifecycle-script.js</tspan>
+<tspan x="10" y="3978">241.  2017-04-15 22:01:40 +0000     3364 bytes  lib/util/filter.js</tspan>
+<tspan x="10" y="3994">242.  2017-04-15 22:01:40 +0000     1056 bytes  lib/util/fix-cmd-win-slashes.js</tspan>
+<tspan x="10" y="4010">243.  2017-04-15 22:01:40 +0000    26616 bytes  lib/util/fs.js</tspan>
+<tspan x="10" y="4026">244.  2017-04-15 22:01:40 +0000    13432 bytes  lib/util/git.js</tspan>
+<tspan x="10" y="4042">245.  2017-04-15 22:01:40 +0000      612 bytes  lib/util/map.js</tspan>
+<tspan x="10" y="4058">246.  2017-04-15 22:01:40 +0000     1494 bytes  lib/util/misc.js</tspan>
+<tspan x="10" y="4074">247.  2017-04-15 22:01:40 +0000      728 bytes  lib/util/mutex.js</tspan>
+<tspan x="10" y="4090">248.  2017-04-15 22:01:40 +0000      953 bytes  lib/util/network.js</tspan>
+<tspan x="10" y="4106">249.  2017-04-15 22:01:40 +0000    11896 bytes  lib/util/normalize-manifest/fix.js</tspan>
+<tspan x="10" y="4122">250.  2017-04-15 22:01:40 +0000     1667 bytes  lib/util/normalize-manifest/index.js</tspan>
+<tspan x="10" y="4138">251.  2017-04-15 22:01:40 +0000     1259 bytes  lib/util/normalize-manifest/infer-license.js</tspan>
+<tspan x="10" y="4154">252.  2017-04-15 22:01:40 +0000    18203 bytes  lib/util/normalize-manifest/licenses.js</tspan>
+<tspan x="10" y="4170">253.  2017-04-15 22:01:40 +0000      674 bytes  lib/util/normalize-manifest/typos.js</tspan>
+<tspan x="10" y="4186">254.  2017-04-15 22:01:40 +0000     2460 bytes  lib/util/normalize-manifest/util.js</tspan>
+<tspan x="10" y="4202">255.  2017-04-15 22:01:40 +0000     4567 bytes  lib/util/normalize-manifest/validate.js</tspan>
+<tspan x="10" y="4218">256.  2017-04-15 22:01:40 +0000      710 bytes  lib/util/parse-package-name.js</tspan>
+<tspan x="10" y="4234">257.  2017-04-15 22:01:40 +0000     2038 bytes  lib/util/promise.js</tspan>
+<tspan x="10" y="4250">258.  2017-04-15 22:01:40 +0000     9924 bytes  lib/util/request-manager.js</tspan>
+<tspan x="10" y="4266">259.  2017-04-15 22:01:40 +0000     2043 bytes  lib/util/stream.js</tspan>
+<tspan x="10" y="4282">260.  2017-04-15 22:01:40 +0000      347 bytes  lib/util/user-home-dir.js</tspan>
+<tspan x="10" y="4298">261.  2017-04-15 22:01:40 +0000      252 bytes  lib/util/version.js</tspan>
+<tspan x="10" y="4314">262.  2017-04-15 22:01:40 +0000     5069 bytes  package.json</tspan>
+<tspan x="10" y="4330">263.  2017-04-15 22:01:40 +0000   166649 bytes  yarn.lock</tspan>
+</text>
+</svg>
