@@ -1,9 +1,14 @@
-# api documentation for  [yarn (v0.22.0)](https://github.com/yarnpkg/yarn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yarn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yarn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yarn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yarn)
+# npmdoc-yarn
+
+#### api documentation for  [yarn (v0.22.0)](https://github.com/yarnpkg/yarn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yarn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yarn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yarn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yarn)
+
 #### 📦🐈 Fast, reliable, and secure dependency management.
 
 [![NPM](https://nodei.co/npm/yarn.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/yarn)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-yarn/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-yarn/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-yarn/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-yarn/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-yarn/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-yarn/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-yarn/build/screenCapture.npmPackageListing.svg)
 
@@ -146,16 +151,6 @@
     "version": "0.22.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module yarn](#apidoc.module.yarn)
-
-
-
-# <a name="apidoc.module.yarn"></a>[module yarn](#apidoc.module.yarn)
 
 
 
