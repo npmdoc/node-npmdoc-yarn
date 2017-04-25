@@ -1,6 +1,6 @@
 # npmdoc-yarn
 
-#### api documentation for  [yarn (v0.22.0)](https://github.com/yarnpkg/yarn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yarn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yarn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yarn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yarn)
+#### basic api documentation for  [yarn (v0.22.0)](https://github.com/yarnpkg/yarn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yarn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yarn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yarn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yarn)
 
 #### 📦🐈 Fast, reliable, and secure dependency management.
 

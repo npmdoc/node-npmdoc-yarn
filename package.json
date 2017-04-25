@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "yarn",
-    "description": "#### api documentation for  [yarn (v0.22.0)](https://github.com/yarnpkg/yarn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yarn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yarn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yarn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yarn)",
+    "description": "#### basic api documentation for  [yarn (v0.22.0)](https://github.com/yarnpkg/yarn#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yarn.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yarn) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yarn.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yarn)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha",
